@@ -1,0 +1,12 @@
+.header{
+    background-color: rgb(33, 140, 33);
+    height: fit-content;
+    padding: 25px;
+    margin-bottom: 20px;
+    color: white;
+}
+.box{
+    border-color: black solid 1px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
